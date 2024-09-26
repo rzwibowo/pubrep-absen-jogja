@@ -1,6 +1,15 @@
 # absen_jogja
 
-A new Flutter project.
+Mobile attendance app detecting wifi which connected on. If the wifi bssid matched the specified, user can check-in or check out.
+
+## Features
+1. Check-in and check-out only when connected to specified bssid wifi
+2. Monthly attendance history
+
+![absen jogja mp4_snapshot_00 08 801](https://github.com/user-attachments/assets/fc3a06e9-a9b0-419b-b153-12a53e47ec3a)
+![absen jogja mp4_snapshot_00 34 426](https://github.com/user-attachments/assets/5b1af0d0-6f5e-478b-8b3b-01e74247cff3)
+![absen jogja mp4_snapshot_00 14 746](https://github.com/user-attachments/assets/7a3c19f7-6213-40db-9436-78d6ecbe3de2)
+
 
 ## Getting Started
 
